@@ -6,3 +6,4 @@
 
 /* 答题页：让核心内容在常见桌面屏幕中一次呈现，无需滚动。 */
 .shell:has(.question){max-width:980px;padding-top:18px}.shell:has(.question) .progress{margin:18px 0 0}.question{padding:7vh 0 3vh}.question h1{max-width:900px;font-size:clamp(30px,4.1vw,50px);line-height:1.2;margin:10px auto 24px}.question .eyebrow{margin:0 0 8px}.answers{max-width:580px;gap:8px}.answers button{padding:13px 16px;min-height:52px}.quiznav{max-width:580px;margin:16px auto 0}.quiznav .next{margin-top:0;padding:13px 22px}.quiznav+.hint{margin-top:12px}@media(max-width:700px){.shell:has(.question){padding-top:14px}.question{padding:5vh 0 2vh}.question h1{font-size:clamp(28px,8vw,39px);margin-bottom:20px}.answers{gap:7px}.answers button{min-height:48px;padding:11px 14px}.quiznav{margin-top:12px}}
+.top span:first-of-type{font-family:Georgia,"Songti SC","STKaiti","Kaiti SC",serif;font-size:23px;letter-spacing:.08em;color:#3f3028}
